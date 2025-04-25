@@ -69,6 +69,8 @@ Full Pygame Pacman remake with hand-crafted levels and custom ghost AI. Scoring,
 ### 🚗 [Driving School Booking System](https://github.com/Sanish1246/driving-school-booking-system)  
 WinForms app that lets students book driving lessons. Built in .NET 8 with Entity Framework Core, CSV import, and a clean testing layer (MSTest gang represent).
 
+### 📋 [Project Management Tool](https://github.com/Zoulienn/Project-Management-Tool) – Console-born productivity beast  
+A simple yet efficient task and project manager built in C#. Tracks progress, organizes tasks, and manages deadlines with clean OOP, LINQ magic, and persistent JSON storage. Comes battle-tested with MSTest.
 
 ## 🎓 Certifications
 
